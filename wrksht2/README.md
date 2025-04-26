@@ -1,1 +1,1 @@
-Priority: master 
+Conflict resolved.
