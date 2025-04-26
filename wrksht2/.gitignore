@@ -1,0 +1,11 @@
+#Contents of .gitignopre
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+build/
+
+#/ means directory name, and * means extension
