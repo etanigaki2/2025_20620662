@@ -1,3 +1,1 @@
-User 1 says hello! 
-
-I want it that way.
+Let's come up with a solution we are happy with.
