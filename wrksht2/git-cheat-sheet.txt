@@ -1,0 +1,6 @@
+git status - Shows the current state of the working directory.
+git show - Displays details of a specific commit.
+git log - Lists the commit history.
+git checkout - Switches branches or restores working tree files.
+git init - Creates a new Git repository.
+git reset - Undoes staging or changes where HEAD points.
