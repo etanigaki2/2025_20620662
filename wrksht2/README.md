@@ -1,1 +1,1 @@
-Conflict resolved.
+User 1 says hello! 
